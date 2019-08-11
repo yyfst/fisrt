@@ -1,3 +1,3 @@
-# fisrt
+# first
 
-fist project
+first project
